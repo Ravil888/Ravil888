@@ -5,4 +5,4 @@
 
 Основнок стек: 
 
-![image](https://github.com/Ravil888/Ravil888/assets/114027893/478c7ed4-692e-4b18-baf6-b389ea7914f1)
+<img src="https://www.flaticon.com/ru/free-icon/python_919852?term=python&page=1&position=1&origin=search&related_id=919852" alt="альтернативный текст">
