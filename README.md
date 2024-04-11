@@ -5,5 +5,5 @@
 
 Основнок стек: 
 
-![python_18894](https://github.com/Ravil888/Ravil888/assets/114027893/28170af9-1e40-45c0-95d7-5269886df9d8)
+Python![python_18894](https://github.com/Ravil888/Ravil888/assets/114027893/28170af9-1e40-45c0-95d7-5269886df9d8)SQL![sql_1526.png](https://github.com/Ravil888/for-images/blob/main/sql_racer_gamedatabase_sql_1526.png)
 
